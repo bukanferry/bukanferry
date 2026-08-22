@@ -1,16 +1,58 @@
-## Hi there 👋
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Halo, saya Ferry L Fanso!
 
-<!--
-**bukanferry/bukanferry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=false&vCenter=true&width=435&lines=Try.+Fail.+Repeat.;Bukan+10x+Engineer;Menulis+kode+sekali,+debug+seminggu)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Teknologi Yang Logonya Saya Pajang Biar Kelihatan Jago
+*(Sejujurnya, saya cuma tahu cara install npm dan copy-paste sisanya)*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 📝 Artikel Terbaru Saya (Yang Mungkin Tidak Pernah Anda Baca)
+- [Bagaimana Cara Keluar Dari Vim (Panduan 2026: Cabut Kabel Power)](#)
+- [Tutorial Mengatasi Error 500 dengan Berdoa 3 Kali Sehari](#)
+- [Mengapa Saya Menggunakan 40 Framework Berbeda Untuk Membuat Website 'Hello World'](#)
+- [Panduan Pemula: Menyalahkan 'Cache' Untuk Setiap Masalah Kode Anda](#)
+
+---
+
+### ☕ Dukung Gaya Hidup Procrastination Saya
+Kalau Anda merasa saya pantas mendapatkan apresiasi karena sudah membuat repositori ini terlihat sangat penuh dan profesional (padahal isinya kosong), traktir saya kopi:
+
+<a href="#"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+
+---
+
+### 📊 "Prestasi" & Statistik GitHub
+*Grafik ini diambil secara otomatis dari GitHub. Kalau angkanya nol, berarti saya sedang sibuk main game.*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bukanferry&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bukanferry&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukanferry&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
