@@ -1,12 +1,12 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Halo, saya Ferry L Fanso!
 
 > **Try. Fail. Repeat.** <br>
-> *Bukan 10x Engineer. Menulis kode sekali, debug seminggu.*
+> *Not a 10x Engineer. Write code once, debug for a week.*
 
 ---
 
-### 🚀 Teknologi Yang Logonya Saya Pajang Biar Kelihatan Jago
-*(Sejujurnya, setengah dari daftar ini adalah game yang membuat saya begadang alih-alih ngoding)*
+### 🚀 Technologies I Display Just to Look Pro
+*(To be honest, half of this list are games that keep me up all night instead of coding)*
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,27 +29,30 @@
   <img src="https://img.shields.io/badge/Minecraft-111111?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
   <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slimefun-2EA043?style=for-the-badge&logo=spigotmc&logoColor=white" />
 </p>
 
 ---
 
-### 📝 Artikel Terbaru Saya (Yang Mungkin Tidak Pernah Anda Baca)
-- [Bagaimana Cara Keluar Dari Vim (Panduan 2026: Cabut Kabel Power)](#)
-- [Tutorial Mengatasi Error 500 dengan Berdoa 3 Kali Sehari](#)
-- [Mengapa Saya Menggunakan 40 Framework Berbeda Untuk Membuat Website 'Hello World'](#)
-- [Panduan Pemula: Menyalahkan 'Cache' Untuk Setiap Masalah Kode Anda](#)
+### 📝 My Latest Articles (That You'll Probably Never Read)
+- [How to Exit Vim (2026 Guide: Unplug the Power Cord)](#)
+- [Tutorial on Fixing Error 500 by Praying 3 Times a Day](#)
+- [Why I Used 40 Different Frameworks to Build a 'Hello World' Website](#)
+- [Beginner's Guide: Blaming 'Cache' for Every Single One of Your Code Issues](#)
 
 ---
 
-### ☕ Dukung Gaya Hidup Procrastination Saya
-Kalau Anda merasa saya pantas mendapatkan apresiasi karena sudah membuat repositori ini terlihat sangat penuh dan profesional (padahal isinya kosong), traktir saya kopi:
+### ☕ Support My Procrastination Lifestyle
+If you feel I deserve some appreciation for making this repository look so full and professional (even though it's actually empty), buy me a coffee:
 
 <a href="#"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
 ---
 
-### 📊 "Prestasi" & Statistik GitHub
-*Grafik ini diambil secara otomatis dari GitHub. Kalau angkanya nol, berarti saya sedang sibuk push rank Valorant.*
+### 📊 "Achievements" & GitHub Stats
+*These charts are fetched automatically from GitHub. If the numbers are zero, it means I'm busy pushing my Valorant rank.*
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bukanferry&theme=radical&hide_border=true" width="48%" />
