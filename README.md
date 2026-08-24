@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Halo, saya Ferry L Fanso!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ferry L Fanso!
 
 > **Try. Fail. Repeat.** <br>
 > *Not a 10x Engineer. Write code once, debug for a week.*
